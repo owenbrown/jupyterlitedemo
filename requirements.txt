@@ -44,3 +44,6 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Test - can i really add requests?
+requests
